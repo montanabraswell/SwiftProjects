@@ -1,14 +1,4 @@
-Project1 - Storm Viewer
-XCode 10 - Swift 4
+# 100DaysOfSwift
 
-This application is created to demonstrate the knowledge of:
-
-
-* UIKit
-* XCode StoryBoards & Auto Layout
-* Table & Image views
-* File Manager
-* View Controllers
-* UIImage
-* UIBarButtonItem
-* UIActivityViewController
+In this repository, I share the projects I have created (or still working on) during the 100DaysOfSwift challenge.
+https://www.hackingwithswift.com/100
